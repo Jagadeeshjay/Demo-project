@@ -13,8 +13,6 @@ public class demo1 {
 		
 		System.out.println("Hi this is sample");
 		
-	
-		
 		
 		System.out.println("this is Jagadeesh");
 	
