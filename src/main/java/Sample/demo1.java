@@ -8,8 +8,7 @@ public class demo1 {
 	public void sampleTest()
 	{
 		
-		
-		
+	
 		
 		System.out.println("Hi this is sample");
 		
