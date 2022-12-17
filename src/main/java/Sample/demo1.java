@@ -22,17 +22,11 @@ public class demo1 {
 		
 		System.out.println("This is Jay");
 		
-		
-		
-		System.out.println("This is maven");
-	
-		
 		System.out.println("This is Monika");
 		
+		System.out.println("This is moni");
 		
-		
-		System.out.println("This is Jaggu");
-		
+	
 		
 		
 		
