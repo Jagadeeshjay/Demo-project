@@ -8,12 +8,13 @@ public class demo1 {
 	public void sampleTest()
 	{
 		
+	
 		
 		System.out.println("Hi this is sample");
 		
 		
-		
 		System.out.println("this is Jagadeesh");
+<<<<<<< HEAD
 		
 	System.out.println("This is moni");
 	
@@ -27,10 +28,16 @@ public class demo1 {
 		
 		
 		
+=======
+	
+>>>>>>> branch 'master' of https://github.com/Jagadeeshjay/Demo-project.git
 		
 		System.out.println("This is Monika");
 		
 		
+		System.out.println("This is moni");
+		
+		System.out.println("This is Jay");
 		
 		
 		
