@@ -9,21 +9,21 @@ public class demo1 {
 	{
 		
 		
+		
+		
 		System.out.println("Hi this is sample");
 		
-		
+	
 		
 		System.out.println("this is Jagadeesh");
-		
-		System.out.println("This is moni");
-		
-		
-		
-		
+	
 		
 		System.out.println("This is Monika");
 		
 		
+		System.out.println("This is moni");
+		
+		System.out.println("This is Jay");
 		
 		
 		
