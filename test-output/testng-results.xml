@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-14T16:43:39 IST" name="Default suite" finished-at="2022-12-14T16:43:39 IST" duration-ms="111">
+  <suite started-at="2022-12-23T13:45:35 IST" name="Default suite" finished-at="2022-12-23T13:45:35 IST" duration-ms="74">
     <groups>
     </groups>
-    <test started-at="2022-12-14T16:43:39 IST" name="Default test" finished-at="2022-12-14T16:43:39 IST" duration-ms="111">
-      <class name="Sample.demo1">
-        <test-method signature="sampleTest()[pri:0, instance:Sample.demo1@d4342c2]" started-at="2022-12-14T16:43:39 IST" name="sampleTest" finished-at="2022-12-14T16:43:39 IST" duration-ms="18" status="PASS">
+    <test started-at="2022-12-23T13:45:35 IST" name="Default test" finished-at="2022-12-23T13:45:35 IST" duration-ms="74">
+      <class name="organizationTest.CreateOrganizationTest">
+        <test-method signature="tc_215_CreateOrgWithMandatoryFieldTest()[pri:0, instance:organizationTest.CreateOrganizationTest@2bbf180e]" started-at="2022-12-23T13:45:35 IST" name="tc_215_CreateOrgWithMandatoryFieldTest" finished-at="2022-12-23T13:45:35 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleTest -->
-      </class> <!-- Sample.demo1 -->
+        </test-method> <!-- tc_215_CreateOrgWithMandatoryFieldTest -->
+        <test-method signature="tc_216_CreateOrgWithIndustryTest()[pri:0, instance:organizationTest.CreateOrganizationTest@2bbf180e]" started-at="2022-12-23T13:45:35 IST" name="tc_216_CreateOrgWithIndustryTest" finished-at="2022-12-23T13:45:35 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_216_CreateOrgWithIndustryTest -->
+      </class> <!-- organizationTest.CreateOrganizationTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
